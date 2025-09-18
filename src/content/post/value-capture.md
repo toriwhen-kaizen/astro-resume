@@ -5,6 +5,8 @@ description: "A bitter old man's post regarding climbing (cult)ture"
 tags: ["climbing", "social media"]
 ---
 
+## Average people climbing (cult)ture
+
 There is no shame in choosing an approachable climb. We all begin somewhere, and difficulty is never the sole measure of worth. But there is rot in what follows: the cherry-picking of crags, the tallying of grades for social capital, the hollow boasts of being “closer on that V10 than a V4.” This is not climbing. This is résumé-building with rocks, the narrow, miserly ethos of the tech bro imported wholesale into our culture.
 
 And it corrodes everything it touches. We see it in the crags overrun with poor etiquette, pads scattered like litter (literal pad-rotting in the Squamish forest), spotters who do not know how to spot (only a basic understanding of the pixie spot), trails worn down by careless traffic, carbon footprints swelling with every cross-country pilgrimage to the next double-digit trophy. We see it in the content: plastic masquerading as stone, Ashes V10 and Zero-Zero V10 chosen not for their movement but because they look like gym climbs on camera. We see it in the endless mimicry—Frankensteined beta, stitched together from videos, rehearsed until the send can be posted and monetized. This is not movement; it is spectacle. And it is exhausting.
